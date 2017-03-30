@@ -11,6 +11,7 @@
 | ubuntu/xenial64                          | https://atlas.hashicorp.com/ubuntu/boxes/xenial64 | https://pan.baidu.com/s/1i55eDxF |                            |
 | Ubuntu 14.04 with Docker enabled (based on amd64 server iso file) | https://github.com/jose-lpa/packer-ubuntu_lts/releases/download/v2.0/ubuntu-14.04.box | https://pan.baidu.com/s/1bp5qRQf | 含有docker                   |
 | ubuntu-14.04-aliyun-docker.box           |                                          |                                  | 加入了阿里云的ubuntu源和阿里云docker加速 |
+
 *要是百度云链接失效的话,联系qq:510908220*
 
 
